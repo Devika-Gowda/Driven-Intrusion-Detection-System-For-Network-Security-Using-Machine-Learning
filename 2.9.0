@@ -1,0 +1,7 @@
+Collecting h5py
+  Downloading h5py-3.11.0-cp311-cp311-win_amd64.whl.metadata (2.5 kB)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\pravi\.conda\envs\tf\lib\site-packages (from h5py) (1.26.4)
+Downloading h5py-3.11.0-cp311-cp311-win_amd64.whl (3.0 MB)
+   ---------------------------------------- 3.0/3.0 MB 1.2 MB/s eta 0:00:00
+Installing collected packages: h5py
+Successfully installed h5py-3.11.0
